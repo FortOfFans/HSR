@@ -12,6 +12,8 @@ Click this link [HERE](https://discord.com/api/oauth2/authorize?client_id=109960
 
 - Character Info
 - Lightcone Info
+- Relic Set Info
+- Blessing Info
 
 ### Need Help?
 
