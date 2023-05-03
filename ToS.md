@@ -6,7 +6,7 @@ The bot currently runs on Discord.js
 
 Click this link [HERE](https://discord.com/api/oauth2/authorize?client_id=1099608201038663761&permissions=201713728&scope=bot%20applications.commands)
 
-[![Discord Shield](https://discord.com/api/guilds/1099604903514619916/widget.png?style=shield)](https://discord.gg/worldofteyvat)
+[![Discord Shield](https://discord.com/api/guilds/1099604903514619916/widget.png?style=shield)](https://discord.gg/DmvUsnACD6)
 
 #### Features
 
